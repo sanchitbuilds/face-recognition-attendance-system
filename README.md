@@ -1,1 +1,1 @@
-# face-recognition-attendance-system
+# face_recognition_project
